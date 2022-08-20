@@ -1,6 +1,10 @@
-### Hi 👋🏻&nbsp; I'm <b>Carlos J. Ramirez</b>
+### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b>
 
-I am a Software Engineer with 30+ years of experience as a Full Stack Developer. I have developed web applications using Full Stack technologies like Python and PHP in Backend, ReactJS, JavaScript, and CSS in Frontend, CI/CD to perform the deployments. I am a proactive, responsible, agile, never-give-up and self-taught developer. I lake to update my knowledge contiously with cutting-edge software development technologies. Over all things, I love coding. I'm also like photography and cooking. My mission is working in teams to contribute the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
+Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
+
+I am a proactive, responsible, agile, never-give-up, and self-taught developer. I like to update my knowledge continuously with cutting-edge software development technologies. Overall things, I love coding. I also like photography and cooking.
+
+My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
 
 
 
@@ -78,8 +82,8 @@ Password: bar
 
 ## 📈 &nbsp;&nbsp;My Github stats:
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkat-cr&layout=compact&theme=chartreuse-dark" />
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=tomkat-cr&repo=github-readme-stats&theme=chartreuse-dark&show_icons=true" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkat-cr&layout=compact&theme=chartreuse-light" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=tomkat-cr&repo=github-readme-stats&theme=chartreuse-light&show_icons=true" />
 </p>
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=tomkat-cr.tomkat-cr" />
