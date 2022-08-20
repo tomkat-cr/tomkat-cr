@@ -2,7 +2,7 @@
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-    My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
+`My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.`
 
 I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught developer.<br/>
 I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
@@ -12,15 +12,6 @@ I like to develop my software frameworks.
 
 I also like photography, cooking, walks through nature landscapes, gym/outdoor exercise, and music (R&B, Rock, Jazz, House, EDM).<br/>
 Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
-
-## 💪🏻 &nbsp;Biggest professional challenge(s)
-
-Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family exclusively by <b>>Software Development</b>.
-
-Other challenges I love the most are:
-- The project I'm working on since 2019 at Source Meridian.
-- The Cryptocurrency mining experience at 2017.
-- The Ethereum Developer Program in 2022.
 
 ## ⚒️ &nbsp;Some technologies I work with
 
@@ -141,6 +132,15 @@ User
 Usename: foo  
 Password: bar
 -->
+
+## 💪🏻 &nbsp;Biggest professional challenge(s)
+
+Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family exclusively by <b>>Software Development</b>.
+
+Other challenges I love the most are:
+- The project I'm working on since 2019 at Source Meridian.
+- The Cryptocurrency mining experience at 2017.
+- The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
 
 ## 📓 &nbsp;Currently, I am learning
 
