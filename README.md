@@ -2,16 +2,27 @@
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
+    My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
 
-I am a proactive, responsible, agile, never-give-up, and self-taught developer.
-I like to update my knowledge continuously with cutting-edge software development technologies.
+I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught developer.<br/>
+I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
+I like to develop my software frameworks.
 
-Overall things, <b>I love coding</b> and challenging myself.
+    Overall things, I LOVE CODING and challenging myself.
 
-I also like photography, cooking, and music (R&B, Rock, Jazz).
+I also like photography, cooking, walks through nature landscapes, gym/outdoor exercise, and music (R&B, Rock, Jazz, House, EDM).<br/>
+Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
-## ⚒️ &nbsp;&nbsp;Some technologies I work with
+## 💪🏻 &nbsp;Biggest professional challenge(s)
+
+Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family exclusively by <b>>Software Development</b>.
+
+Other challenges I love the most are:
+- The project I'm working on since 2019 at Source Meridian.
+- The Cryptocurrency mining experience at 2017.
+- The Ethereum Developer Program in 2022.
+
+## ⚒️ &nbsp;Some technologies I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
@@ -42,9 +53,47 @@ I also like photography, cooking, and music (R&B, Rock, Jazz).
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
 
+## ⏱ &nbsp;Experience times
+
+### Programming Languages
+
+- Javascript: since 2007
+- Python: since 2019
+- React: since 2021
+- PHP: since 2000
+- SQL: since 2000
+- Oracle PL/SQL: 2018
+- Flutter: since 2022
+- Bash: since 2018
+
+### Databases
+
+- MySQL: since 2000
+- DynamoDb: since 2019
+- MongoDb: since 2021
+- Oracle Database: 2018
+
+### Cloud Platforms
+
+- AWS: since 2018
+- Oracle Cloud: 2018
+
+## CI/CD
+
+- Github / Gitlab: since 2019
+- Ansible: since 2021
+
+### Other
+
+- Docker: since 2018
+- Linux: since 2017
+- Wordpress: since 2017 [plugins, themes programming, troubleshooting]
+
 ## 🎯 &nbsp;Featuring project
 
 ### FynApp
+
+An application to achieve weight loss goals and maintain a better lifestyle, based on proper nutrition, a positive mindset, and physical activity.
 
 - [Frontend](https://github.com/tomkat-cr/fynapp_frontend)
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
@@ -78,7 +127,7 @@ This application was built using:
 
 (*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
 
-The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, facade, iterator, template method).
+The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, facade, iterator, template method, decorator).
 
 🔗 Link to the live [Demo](https://app.fynapp.com/)
 
