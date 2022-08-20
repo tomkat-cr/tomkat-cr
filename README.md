@@ -2,13 +2,13 @@
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-`My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.`
+<b>My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.</b>
 
 I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught developer.<br/>
 I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
 I like to develop my software frameworks.
 
-    Overall things, I LOVE CODING and challenging myself.
+<b>Overall things, I LOVE CODING and challenging myself.</b>
 
 I also like photography, cooking, walks through nature landscapes, gym/outdoor exercise, and music (R&B, Rock, Jazz, House, EDM).<br/>
 Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
@@ -48,6 +48,7 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ### Programming Languages
 
+- Software development in general: since 1997, from Cobol to Python 🐍
 - Javascript: since 2007
 - Python: since 2019
 - React: since 2021
@@ -93,28 +94,21 @@ An application to achieve weight loss goals and maintain a better lifestyle, bas
 This application was built using:
 
 - Frontend
-  - React 17
-  - Formik
-  - Bootstrap
+  - React 17, Formik, Bootstrap
   - Express
-  - GCE (*)
+  - <b>GCE (*)</b>
 
 - Backend
-  - Python 3
-  - Flask
-  - JWT
-  - MongoDb Atlas
-  - AWS DynamoDb
+  - Python 3, Flask, JWT
+  - MongoDb Atlas, AWS DynamoDb
   - Gunicorn
 
 - DevOps
   - Heroku
-  - Kubernetes
-  - Docker
-  - Gitlab CI/CD
-  - Github
+  - Kubernetes, Docker
+  - Gitlab CI/CD, Github
   - Jfrog
-  - Linux and Bash
+  - Linux, Bash
 
 (*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
 
@@ -135,10 +129,10 @@ Password: bar
 
 ## 💪🏻 &nbsp;Biggest professional challenge(s)
 
-Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family exclusively by <b>>Software Development</b>.
+Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family, exclusively by doing <b>Software Development</b>.
 
 Other challenges I love the most are:
-- The project I'm working on since 2019 at Source Meridian.
+- The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian.
 - The Cryptocurrency mining experience at 2017.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
 
@@ -156,9 +150,9 @@ Other challenges I love the most are:
 <a href="https://twitter.com/tomkat_cr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/carlosjramirez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-#### 😎 &nbsp;My pronouns are: He/Him/His
+<!-- #### 😎 &nbsp;My pronouns are: He/Him/His -->
 
-## 📈 &nbsp;&nbsp;Github profile stats
+## 📈 &nbsp;&nbsp;Some of my stats
 
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkat-cr&layout=compact&theme=chartreuse-light" />
