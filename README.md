@@ -2,13 +2,18 @@
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-I am a proactive, responsible, agile, never-give-up, and self-taught developer. I like to update my knowledge continuously with cutting-edge software development technologies. Overall things, I love coding. I also like photography and cooking.
+I am a proactive, responsible, agile, never-give-up, and self-taught developer.
+
+I like to update my knowledge continuously with cutting-edge software development technologies.
+
+Overall things, <b>I love coding</b> and challenging myself.
+
+I also like photography, cooking, and music (R&B, Rock, Jazz).
 
 My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
 
+## ⚒️ &nbsp;&nbsp;Some technologies I work with
 
-
-## ⚒️ &nbsp;&nbsp;Technologies I work with:
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
@@ -38,22 +43,45 @@ My mission is to work in teams to contribute to the open source development and 
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
 
-## 🎯 &nbsp;My projects:
+## 🎯 &nbsp;Featuring project
+
 ### FynApp
+
 - [Frontend](https://github.com/tomkat-cr/fynapp_frontend)
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
- 
+- [GitOps](https://github.com/tomkat-cr/fynapp_gitops)
+
 This application was built using:
+
 - Frontend
-  - React
+  - React 17
+  - Formik
+  - Bootstrap
+  - Express
+  - GCE (*)
+
 - Backend
-  - Python
+  - Python 3
   - Flask
   - JWT
-  - MongoDb
+  - MongoDb Atlas
   - AWS DynamoDb
+  - Gunicorn
 
-🔗 Link to the [Demo](https://app.fynapp.com/)
+- DevOps
+  - Heroku
+  - Kubernetes
+  - Docker
+  - Gitlab CI/CD
+  - Github
+  - Jfrog
+  - Linux and Bash
+
+(*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
+
+The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, prototype, facade).
+
+🔗 Link to the live [Demo](https://app.fynapp.com/)
 
 <!--
 Credentials
@@ -66,7 +94,8 @@ Usename: foo
 Password: bar
 -->
 
-## 📓 &nbsp;Currently, I am learning:
+## 📓 &nbsp;Currently, I am learning
+
 <img src="https://img.shields.io/badge/Web3-005C84?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Solidity-005C84?style=for-the-badge&logo=solidity&logoColor=white" alt="Web3" />&nbsp;&nbsp;
 
@@ -74,13 +103,15 @@ Password: bar
 
 <img src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=white" alt="React" />&nbsp;&nbsp;
 
-## 🌐 &nbsp;&nbsp;How to reach me:
+## 🌐 &nbsp;&nbsp;How to reach me
+
 <a href="https://twitter.com/tomkat_cr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/carlosjramirez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 #### 😎 &nbsp;My pronouns are: He/Him/His
 
-## 📈 &nbsp;&nbsp;My Github stats:
+## 📈 &nbsp;&nbsp;Github profile stats
+
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkat-cr&layout=compact&theme=chartreuse-light" />
   <img align="" src="https://github-readme-stats.vercel.app/api?username=tomkat-cr&repo=github-readme-stats&theme=chartreuse-light&show_icons=true" />
