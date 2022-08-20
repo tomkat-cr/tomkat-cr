@@ -2,15 +2,14 @@
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-I am a proactive, responsible, agile, never-give-up, and self-taught developer.
+My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
 
+I am a proactive, responsible, agile, never-give-up, and self-taught developer.
 I like to update my knowledge continuously with cutting-edge software development technologies.
 
 Overall things, <b>I love coding</b> and challenging myself.
 
 I also like photography, cooking, and music (R&B, Rock, Jazz).
-
-My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
 
 ## ⚒️ &nbsp;&nbsp;Some technologies I work with
 
@@ -79,7 +78,7 @@ This application was built using:
 
 (*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
 
-The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, prototype, facade).
+The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, facade, iterator, template method).
 
 🔗 Link to the live [Demo](https://app.fynapp.com/)
 
