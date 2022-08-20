@@ -1,6 +1,8 @@
 ### Hi 👋🏻&nbsp; I'm <b>Carlos J. Ramirez</b>
 
-I am a Software Engineer with 30+ years of experience as a Full Stack Developer. I have developed web applications using Full Stack technologies like Python and PHP in Backend. ReactJS, JavaScript, and CSS in Frontend and some CI/CD. I am a proactive, responsible, agile, never-give-up and self-taught developer, analyzing and proposing high quality solutions. I love to update my knowledge contiously with cutting-edge software development technologies. Over all things, I love coding. I'm also like photography and cooking.
+I am a Software Engineer with 30+ years of experience as a Full Stack Developer. I have developed web applications using Full Stack technologies like Python and PHP in Backend, ReactJS, JavaScript, and CSS in Frontend, CI/CD to perform the deployments. I am a proactive, responsible, agile, never-give-up and self-taught developer. I lake to update my knowledge contiously with cutting-edge software development technologies. Over all things, I love coding. I'm also like photography and cooking. My mission is working in teams to contribute the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.
+
+
 
 ## ⚒️ &nbsp;&nbsp;Technologies I work with:
 <p align="center">
