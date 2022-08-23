@@ -48,7 +48,7 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ### Programming Languages
 
-- Software development in general: since 1997, from Cobol to Python 🐍
+- Software development in general: since 1987, from Cobol to Python 🐍, React & Flutter.
 - Javascript: since 2007
 - Python: since 2019
 - React: since 2021
@@ -112,9 +112,14 @@ This application was built using:
 
 (*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
 
-The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used (factory method, facade, iterator, template method, decorator).
+The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator).
 
-🔗 Link to the live [Demo](https://app.fynapp.com/)
+🔗 Link to the live [Demo](https://app-staging.fynapp.com)
+
+Credentials
+
+Usename: admin@example.com
+Password: Learning.by-Example
 
 <!--
 Credentials
