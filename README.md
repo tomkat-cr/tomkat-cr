@@ -1,8 +1,8 @@
-### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b>
+### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
 Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to simulate production environments locally, Ansible and Gitlab's CI/CD to perform the automated testing and deployments over different cloud providers, like AWS, Heroku and Vercel.
 
-<b>My mission is to work in teams to contribute to the open source development and the global adoption of blockchain technology, turning Latin America into a technological powerhouse.</b>
+<b>My mission is to turn Latin America into a technological powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open source community, and to the global adoption of blockchain technology</b>.
 
 I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught developer.<br/>
 I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
@@ -11,7 +11,7 @@ I like to develop my software frameworks.
 <b>Overall things, I LOVE CODING and challenging myself.</b>
 
 I also like photography, cooking, walks through nature landscapes, gym/outdoor exercise, and music (R&B, Rock, Jazz, House, EDM).<br/>
-Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
+I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ## ⚒️ &nbsp;Some technologies I work with
 
@@ -23,7 +23,7 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <!--img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/DynamoDb-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="DynamoDb" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
   <!--img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" />&nbsp;&nbsp;
@@ -46,9 +46,10 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ## ⏱ &nbsp;Experience times
 
+- Software development in general: since 1987, from Cobol to Python 🐍, React & Flutter.
+
 ### Programming Languages
 
-- Software development in general: since 1987, from Cobol to Python 🐍, React & Flutter.
 - Javascript: since 2007
 - Python: since 2019
 - React: since 2021
@@ -62,7 +63,7 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 - MySQL: since 2000
 - DynamoDb: since 2019
-- MongoDb: since 2021
+- MongoDB: since 2021
 - Oracle Database: 2018
 
 ### Cloud Platforms
@@ -79,13 +80,13 @@ Big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 - Docker: since 2018
 - Linux: since 2017
-- Wordpress: since 2017 [plugins, themes programming, troubleshooting]
+- WordPress: since 2017 [plugins, themes programming, troubleshooting]
 
 ## 🎯 &nbsp;Featuring project
 
 ### FynApp
 
-An application to achieve weight loss goals and maintain a better lifestyle, based on proper nutrition, a positive mindset, and physical activity.
+Application to achieve weight loss goals and maintain a better lifestyle, based on proper nutrition, a positive mindset, and physical activity.
 
 - [Frontend](https://github.com/tomkat-cr/fynapp_frontend)
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
@@ -100,7 +101,7 @@ This application was built using:
 
 - Backend
   - Python 3, Flask, JWT
-  - MongoDb Atlas, AWS DynamoDb
+  - MongoDB Atlas, AWS DynamoDb
   - Gunicorn
 
 - DevOps
@@ -110,31 +111,34 @@ This application was built using:
   - Jfrog
   - Linux, Bash
 
-(*) The Generic CRUD Editor [GCE] is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
+- Mobile (about to come)
+  - Flutter
 
-The Backend can use DynamoDb or MongoDb as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator).
+(*) The <b>Generic CRUD Editor [GCE]</b> is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
 
-🔗 Link to the live [Demo](https://app-staging.fynapp.com)
+The Backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
+
+🔗 Link to the live <a href="https://app-staging.fynapp.com" target="_blank">Demo</a>
 
 Credentials
 
-Usename: admin@example.com
-Password: Learning.by-Example
+- Username: admin@example.com
+- Password: Learning.by-Example
 
 <!--
 Credentials
 
 Admin  
-Usename: admin  
+Username: admin  
 Password: 12345678
 User  
-Usename: foo  
+Username: foo  
 Password: bar
 -->
 
 ## 💪🏻 &nbsp;Biggest professional challenge(s)
 
-Make money with my professional career as an inmigrant in 3 different counties (USA, Panama and Colombia), having financial estability and giving income to my family, exclusively by doing <b>Software Development</b>.
+Make money with my professional career as an immigrant in 3 different counties (USA, Panama, and Colombia), having financial stability, and give income to my family, exclusively by doing <b>Software Development</b>.
 
 Other challenges I love the most are:
 - The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian.
@@ -143,12 +147,12 @@ Other challenges I love the most are:
 
 ## 📓 &nbsp;Currently, I am learning
 
-<img src="https://img.shields.io/badge/Web3-005C84?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Web3-005C84?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />](https://www.platzi.com/eth/)&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Solidity-005C84?style=for-the-badge&logo=solidity&logoColor=white" alt="Web3" />&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />](https://platzi.com/cursos/creacion-librerias-ui/)&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=white" alt="React" />&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />](https://platzi.com/cursos/flutter-avanzado/)&nbsp;&nbsp;
 
 ## 🌐 &nbsp;&nbsp;How to reach me
 
