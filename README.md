@@ -151,7 +151,7 @@ Other challenges I love the most are:
 <img src="https://img.shields.io/badge/Solidity-005C84?style=for-the-badge&logo=solidity&logoColor=white" alt="Web3" />&nbsp;&nbsp;
 -->
 
-[<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />](https://platzi.com/ruta/web-python/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />](https://platzi.com/ruta/web-python/)&nbsp;&nbsp;
 
 [<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />](https://platzi.com/cursos/creacion-librerias-ui/)&nbsp;&nbsp;
 
