@@ -153,7 +153,7 @@ Other challenges I love the most are:
 [<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />](https://platzi.com/cursos/creacion-librerias-ui/)&nbsp;&nbsp;
 -->
 
-[<img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />[(https://platzi.com/ruta/web-python/) [<img src="https://img.shields.io/badge/OSSU-data--science-blue.svg" alt="Data Science" />](https://platzi.com/escuela/datos/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />](https://platzi.com/ruta/web-python/) [<img src="https://img.shields.io/badge/OSSU-data--science-blue.svg" alt="Data Science" />](https://platzi.com/escuela/datos/)&nbsp;&nbsp;
 
 [<img src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />](https://platzi.com/cursos/flutter-avanzado/)&nbsp;&nbsp;
 
