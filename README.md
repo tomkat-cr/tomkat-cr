@@ -145,7 +145,7 @@ Other challenges I love the most are:
 - The Cryptocurrency mining experience at 2017.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
 
-## 📓 &nbsp;Currently, I am learning
+## 📓 &nbsp;Currently, I'm learning
 <!--
 [<img src="https://img.shields.io/badge/Web3-005C84?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />](https://www.platzi.com/eth/)&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Solidity-005C84?style=for-the-badge&logo=solidity&logoColor=white" alt="Web3" />&nbsp;&nbsp;
@@ -153,7 +153,7 @@ Other challenges I love the most are:
 [<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />](https://platzi.com/cursos/creacion-librerias-ui/)&nbsp;&nbsp;
 -->
 
-[<img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />](https://platzi.com/ruta/web-python/) [<img src="https://img.shields.io/badge/OSSU-data--science-blue.svg" alt="Data Science" />](https://platzi.com/escuela/datos/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/data--science-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />](https://platzi.com/escuela/datos/) with [<img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />](https://platzi.com/ruta/web-python/)&nbsp;&nbsp;
 
 [<img src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />](https://platzi.com/cursos/flutter-avanzado/)&nbsp;&nbsp;
 
