@@ -118,7 +118,7 @@ This application was built using:
 
 The Backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
 
-🔗 Link to the live <a href="https://app-staging.fynapp.com" target="_blank">Demo</a>
+🔗 Link to the live <a href="http://app-staging.fynapp.com" target="_blank">Demo</a>
 
 Credentials
 
