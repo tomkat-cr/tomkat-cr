@@ -20,11 +20,9 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
   <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-005C84?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
-  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp; -->
-  
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp; --> 
   <img src="https://img.shields.io/badge/Lang-chain-green?style=for-the-badge&logo=langchain&logoColor=yellow" alt="LangChain" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openain&logoColor=black" alt="OpenAI API" />&nbsp;&nbsp;
-  
   <!--img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/DynamoDb-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="DynamoDb" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
