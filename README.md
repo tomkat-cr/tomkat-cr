@@ -1,12 +1,12 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-Software Engineer with 30+ years of experience as a Full Stack Developer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to emulate production environments, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS and Vercel.
+Software Engineer with 30+ years of experience as a Software Engineer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker and Linux to emulate production environments, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS and Vercel.
 
 <b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open source community<!--, and to the global adoption of blockchain technology --></b>.
 
-I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught developer.<br/>
+I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught Software Engineer.<br/>
 I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
-I like to develop my software frameworks.
+I like to develop my own software frameworks.
 
 <b>Overall things, I LOVE CODING and challenging myself.</b>
 
@@ -163,7 +163,8 @@ Password: bar
 Make money with my professional career as an immigrant in 3 different counties (USA, Panama, and Colombia), having financial stability, and give income to my family, exclusively by doing <b>Software Development</b>.
 
 Other challenges I love the most are:
-- The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian.
+<!-- - The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian. -->
+- Getting involved in the AI explosion since 2022.
 - The Cryptocurrency mining experience at 2017.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
 
