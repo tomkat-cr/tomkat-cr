@@ -92,10 +92,11 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 - Docker: since 2018
 - Linux: since 2017
-- WordPress: since 2017 [plugins, themes programming, troubleshooting]
+- Clarifai (AI Platform): since 2023
 - Express: since 2021
 - Gunicorn: since 2021
 - Uvicorn: since 2022
+- WordPress: since 2017 [plugins, themes programming, troubleshooting]
   
 
 ## 🎯 &nbsp;Featuring project
