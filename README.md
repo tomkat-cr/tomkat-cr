@@ -20,14 +20,18 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
   <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-005C84?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp; -->
+  
+  <img src="https://img.shields.io/badge/Lang-chain-green?style=for-the-badge&logo=langchain&logoColor=yellow" alt="LangChain" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openain&logoColor=black" alt="OpenAI API" />&nbsp;&nbsp;
+  
   <!--img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/DynamoDb-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="DynamoDb" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
   <!--img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
@@ -36,10 +40,10 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
   <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />&nbsp;&nbsp;
   <!-- <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />&nbsp;&nbsp;   -->
   <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/ELM-green?style=for-the-badge&logo=elm&logoColor=white" alt="ELM" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/ELM-green?style=for-the-badge&logo=elm&logoColor=white" alt="ELM" />&nbsp;&nbsp; -->
+  <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
@@ -66,9 +70,18 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 - MongoDB: since 2021
 - Oracle Database: 2018
 
+### Frameworks / APIs
+
+- Langchain
+- OpenAI
+- Flask
+- Chalice
+- FastAPI
+  
 ### Cloud Platforms
 
 - AWS: since 2018
+- GCP: since 2018
 - Oracle Cloud: 2018
 
 ## CI/CD
@@ -81,12 +94,16 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 - Docker: since 2018
 - Linux: since 2017
 - WordPress: since 2017 [plugins, themes programming, troubleshooting]
+- Express
+- Gunicorn
+- Uvicorn
+  
 
 ## 🎯 &nbsp;Featuring project
 
-### FynApp
+### FynApp and The Generic Suite
 
-Application to achieve weight loss goals and maintain a better lifestyle, based on proper nutrition, a positive mindset, and physical activity.
+Application to achieve weight loss goals and maintain a better lifestyle based on proper nutrition. Allows the users to record their favorite food ingredients, recipes, and daily meals, track calorie consumption, and create calorie-deficit menus based on affordable and preferred ingredients and recipes. FynApp provides AI-powered experiences to users using LLM (Large Language Models), speech-to-text, text-to-image, and image-to-text technologies, enabling them to interact via voice, text, or image uploads.
 
 - [Frontend](https://github.com/tomkat-cr/fynapp_frontend)
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
@@ -95,28 +112,33 @@ Application to achieve weight loss goals and maintain a better lifestyle, based 
 This application was built using:
 
 - Frontend
-  - React 17, Formik, Bootstrap
-  - Express
-  - <b>GCE (*)</b>
+  - ReactJS, Formik, Bootstrap
+  - <b>Generic Suite (*)</b>
 
 - Backend
-  - Python 3, Flask, JWT
+  - Python 3
+  - LangChain
+  - OpenAI
+  - Flask/Chalice/FastAPI
   - MongoDB Atlas, AWS DynamoDb
-  - Gunicorn
-
+  - AWS Lambda Functions, AWS S3
+  - Gunicorn/Uvicorn
+  - JWT
+  
 - DevOps
-  - AWS/Vercel/Heroku
+  - AWS SAM and CloudFormation
   - Kubernetes, Docker
-  - Gitlab CI/CD, Github
-  - Jfrog
+  - Github
   - Linux, Bash
 
 - Mobile (about to come)
   - Flutter
 
-(*) The <b>Generic CRUD Editor [GCE]</b> is a React component to help develop back-office apps faster. By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k. The intention is to transform it into an NPM package.
+(*) The <b>Generic Suite</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
+By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k.
+It also includes a generic menu and endpoints builder.
 
-The Backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
+The backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
 
 🔗 Link to the live <a href="http://app-staging.fynapp.com" target="_blank">Demo</a>
 
