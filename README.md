@@ -70,11 +70,11 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ### Frameworks / APIs
 
-- Langchain
-- OpenAI
-- Flask
-- Chalice
-- FastAPI
+- Langchain: since 2023
+- OpenAI: since 2022
+- Flask: since 2021
+- Chalice: since 2022
+- FastAPI: since 2022
   
 ### Cloud Platforms
 
@@ -92,9 +92,9 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 - Docker: since 2018
 - Linux: since 2017
 - WordPress: since 2017 [plugins, themes programming, troubleshooting]
-- Express
-- Gunicorn
-- Uvicorn
+- Express: since 2021
+- Gunicorn: since 2021
+- Uvicorn: since 2022
   
 
 ## 🎯 &nbsp;Featuring project
