@@ -68,10 +68,11 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 - MongoDB: since 2021
 - Oracle Database: 2018
 
-### Frameworks / APIs
+### Frameworks / API / LLM
 
 - Langchain: since 2023
 - OpenAI: since 2022
+- Google Gemini: since 2023
 - Flask: since 2021
 - Chalice: since 2022
 - FastAPI: since 2022
