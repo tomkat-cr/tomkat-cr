@@ -133,13 +133,7 @@ This application was built using:
 
 - Mobile (about to come)
   - Flutter
-
-(*) The <b>Generic Suite</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
-By having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k.
-It also includes a generic menu and endpoints builder.
-
-The backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
-
+<br/>
 🔗 Link to the live <a href="http://app-staging.fynapp.com" target="_blank">Demo</a>
 
 Credentials
@@ -147,6 +141,41 @@ Credentials
 - Username: admin@example.com
 - Password: Learning.by-Example
 
+### The Generic Suite
+
+(*) The <b>Generic Suite</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
+
+Features:
+
+- Generic CRUD database and endpoints: by having a core Create-Read-Update-Delete code that can be parametrized & extended, there's no need to rewrite code for each table editor. I did before in other programming languages over the years, like Microsoft ASP in the early y20k.
+- Generic menu and endpoints builder.
+- Database abstractor: The backend can use DynamoDb or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDb access by a MongoDB-styled syntax.
+- Framework abstractor: to develop Apps with FastAPI, Chalice or Flask seamlessly.
+
+Repo: [https://github.com/tomkat-cr/genericsuite-be](https://github.com/tomkat-cr/genericsuite-be)
+
+### The Generic Suite AI
+The <b>Generic Suite AI</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI faster.
+
+Features:
+
+- `ai_chatbot` endpoint to implement NLP conversations based on OpenAI or Langchain APIs.
+- OpenAPI, Google Gemini, Anthropic, Ollama, and Hugging Face models handling.
+- Clarifai models and embeddings handling.
+- Computer vision (OpenAPI GPT4 Vision, Google Gemini Vision, Clarifai Vision).
+- Speech-to-text processing (OpenAPI Whisper, Clarifai Audio Models).
+- Text-to-speech (OpenAI TTS-1, Clarifai Audio Models).
+- Image generator (OpenAI DALL-E 3, Google Gemini Image, Clarifai Image Models).
+- Vector indexers (FAISS, Chroma, Clarifai, Vectara, Weaviate, MongoDBAtlasVectorSearch)
+- Embedders (OpenAI, Hugging Face, Clarifai, Bedrock, Cohere, Ollama)
+- Web search tool.
+- Webpage scrapping and analyzing tool.
+- JSON, PDF, Git and Youtube readers.
+- Language translation tools.
+- Chats stored in the Database.
+- Plan attribute, OpenAi API key and model name in the user profile, to allow free plan users to use Models at their own expenses.
+
+Repo: [https://github.com/tomkat-cr/genericsuite-be-ai](https://github.com/tomkat-cr/genericsuite-be-ai)
 <!--
 Credentials
 
@@ -164,6 +193,7 @@ Make money with my professional career as an immigrant in 3 different counties (
 
 Other challenges I love the most are:
 <!-- - The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian. -->
+- The GenericSuite development in 2023.
 - Getting involved in the AI explosion since 2022.
 - The Cryptocurrency mining experience at 2017.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
