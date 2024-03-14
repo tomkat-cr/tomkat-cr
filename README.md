@@ -1,6 +1,6 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-Software Engineer with 30+ years of experience as a Software Engineer. I've developed web applications using technologies like Python and PHP in the Backend, ReactJS, JavaScript, and CSS in Frontend, Gitlab and Github for version control, Docker, and Linux to emulate production environments, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS and Vercel.
+Software Engineer with 30+ years of experience. I've developed Apps using technologies like Python and PHP in the Backend, ReactJS, JavaScript, HTML and CSS in Frontend, Github and Gitlab for version control, Docker, and Linux to emulate production environments and build K8, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS.
 
 <b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
 
