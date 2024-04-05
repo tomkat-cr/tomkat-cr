@@ -106,7 +106,7 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 ## 🎯 &nbsp;Featuring projects
 
 ### The Generic Suite
-The <b>Generic Suite</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
+The [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
 
 Features:
 
@@ -119,9 +119,10 @@ Repositories:
 
 - [https://github.com/tomkat-cr/genericsuite-fe](https://github.com/tomkat-cr/genericsuite-fe)
 - [https://github.com/tomkat-cr/genericsuite-be](https://github.com/tomkat-cr/genericsuite-be)
+- [https://github.com/tomkat-cr/genericsuite-be-scripts](https://github.com/tomkat-cr/genericsuite-be-scripts)
 
 ### The Generic Suite AI
-The <b>Generic Suite AI</b> is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI faster.
+The [GenericSuite AI](https://github.com/stars/tomkat-cr/lists/genericsuite-library) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI faster.
 
 Features:
 
@@ -139,7 +140,7 @@ Features:
 - JSON, PDF, Git and YouTube readers.
 - Language translation tools.
 - Chats stored in the Database.
-- Plan attribute, OpenAi API key and model name in the user profile, to allow free plan users to use Models at their own expenses.
+- User Plan, OpenAI API key and model name attributes in the user profile, to allow free plan users to use Models at their own expenses.
 
 Repositories:
 
@@ -154,7 +155,7 @@ This application was built using:
 
 - Frontend
   - ReactJS, Formik, Bootstrap
-  - <b>Generic Suite</b>
+  - [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library)
 
 - Backend
   - Python 3
@@ -165,7 +166,7 @@ This application was built using:
   - AWS Lambda Functions, AWS S3
   - Gunicorn/Uvicorn
   - JWT
-  - <b>Generic Suite</b>
+  - [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library)
   
 - DevOps
   - AWS SAM and CloudFormation
@@ -175,21 +176,23 @@ This application was built using:
 
 - Mobile (about to come)
   - Flutter
-<!--
+
 <br/>
-🔗 Link to the live <a href="http://app-staging.fynapp.com" target="_blank">Demo</a>
+🔗 Link to the live <a href="https://app-demo.fynapp.com/#fynapp_frontend_aws/login" target="_blank">Demo</a>
+<!--
 
 Credentials
 
 - Username: admin@example.com
 - Password: Learning.by-Example
 -->
+<!--
 
 Repositories:
 - [Frontend](https://github.com/tomkat-cr/fynapp_frontend)
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
 - [GitOps](https://github.com/tomkat-cr/fynapp_gitops)
-
+-->
 
 ## 💪🏻 &nbsp;Professional challenges
 
@@ -197,10 +200,10 @@ Make money with my professional career as an immigrant in 3 different counties (
 
 Other challenges I love the most are:
 <!-- - The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian. -->
-- The GenericSuite development in 2023.
+- The [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library) development since 2023.
 - Getting involved in the AI explosion since 2022.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
-- The Cryptocurrency mining experience at 2017.
+- Cryptocurrency mining experience in 2017.
 
 <!--
 ## 📓 &nbsp;Currently, I'm learning
