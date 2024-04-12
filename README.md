@@ -1,17 +1,8 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-Software Engineer with 30+ years of experience. I've developed Apps using technologies like Python and PHP in the Backend, ReactJS, JavaScript, HTML and CSS in Frontend, Github and Gitlab for version control, Docker, and Linux to emulate production environments and build K8, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS.
+Software Engineer with 30+ years of experience. I've developed Apps using technologies like Python and PHP in the Backend, ReactJS, JavaScript, HTML and CSS in Frontend, Github and Gitlab for version control, Docker and Linux to build AWS Lambda Functions, build K8 and emulate production environments, Ansible and Gitlab's CI/CD to perform the automated testing and Linux/Serverless deployments over different cloud providers, like AWS.
 
 <b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
-
-I am a proactive, responsible, agile, never-give-up, disciplined, and self-taught Software Engineer.<br/>
-I like to update my knowledge continuously with cutting-edge software development technologies.<br/>
-I like to develop my own software frameworks.
-
-<b>Overall things, I LOVE CODING and challenging myself.</b>
-
-I also like photography, cooking, walks through nature landscapes, gym/outdoor exercise, and music (R&B, Rock, Jazz, House, EDM).<br/>
-I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 
 ## ⚒️ &nbsp;Some technologies I work with
 
@@ -106,7 +97,7 @@ I'm a big fan of the 5Ps (Previous Planning Prevents Poor Performance).
 ## 🎯 &nbsp;Featuring projects
 
 ### The Generic Suite
-The [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
+The [GenericSuite](https://www.carlosjramirez.com/genericsuite/) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
 
 Features:
 
@@ -122,7 +113,7 @@ Repositories:
 - [https://github.com/tomkat-cr/genericsuite-be-scripts](https://github.com/tomkat-cr/genericsuite-be-scripts)
 
 ### The Generic Suite AI
-The [GenericSuite AI](https://github.com/stars/tomkat-cr/lists/genericsuite-library) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI faster.
+The [GenericSuite AI](https://www.carlosjramirez.com/genericsuite/) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI.
 
 Features:
 
@@ -155,7 +146,7 @@ This application was built using:
 
 - Frontend
   - ReactJS, Formik, Bootstrap
-  - [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library)
+  - [GenericSuite](https://www.carlosjramirez.com/genericsuite/)
 
 - Backend
   - Python 3
@@ -166,7 +157,7 @@ This application was built using:
   - AWS Lambda Functions, AWS S3
   - Gunicorn/Uvicorn
   - JWT
-  - [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library)
+  - [GenericSuite](https://www.carlosjramirez.com/genericsuite/)
   
 - DevOps
   - AWS SAM and CloudFormation
@@ -200,7 +191,7 @@ Make money with my professional career as an immigrant in 3 different counties (
 
 Other challenges I love the most are:
 <!-- - The <b>Jornaya</b> project I'm working on since 2019 at Source Meridian. -->
-- The [GenericSuite](https://github.com/stars/tomkat-cr/lists/genericsuite-library) development since 2023.
+- The [GenericSuite](https://www.carlosjramirez.com/genericsuite/) development since 2023.
 - Getting involved in the AI explosion since 2022.
 - The [Ethereum Developer Program](https://www.platzi.com/eth/) in 2022.
 - Cryptocurrency mining experience in 2017.
