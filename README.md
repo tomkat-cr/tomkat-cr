@@ -2,8 +2,6 @@
 
 Software Engineer with 30+ years of experience.
 
-My current stack is ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker, Linux / Bash, AWS (EC2, Lambda Functions, ECR, SAM, Cloudformation), GCP (Google Maps Platform and AI Services), and OpenAI, HuggingFace and Langchain for RAG and LLM applications.
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
@@ -35,12 +33,14 @@ My current stack is ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker,
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
 
+My current stack is ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker, Linux / Bash, AWS (EC2, Lambda Functions, ECR, SAM, Cloudformation), GCP (Google Maps Platform and AI Services), and OpenAI, HuggingFace and Langchain for RAG and LLM applications.
+
 <b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
 
 ## 🎯 &nbsp;Featuring projects
 
 ### The Generic Suite
-The [GenericSuite](https://www.carlosjramirez.com/genericsuite/) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
+The [GenericSuite](https://genericsuite.carlosjramirez.com/) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps faster.
 
 Features:
 
@@ -49,6 +49,9 @@ Features:
 - Database abstractor: The backend can use DynamoDB or MongoDB as the persistent storage, and some software design patterns have been used there (factory method, facade, iterator, template method, decorator). The most remarkable thing about it was to implement DynamoDB access by a MongoDB-styled syntax.
 - Framework abstractor: to develop Apps with FastAPI, Chalice or Flask seamlessly.
 
+Documentation:
+- [https://genericsuite.carlosjramirez.com](https://genericsuite.carlosjramirez.com)
+
 Repositories:
 
 - [https://github.com/tomkat-cr/genericsuite-fe](https://github.com/tomkat-cr/genericsuite-fe)
@@ -56,7 +59,7 @@ Repositories:
 - [https://github.com/tomkat-cr/genericsuite-be-scripts](https://github.com/tomkat-cr/genericsuite-be-scripts)
 
 ### The Generic Suite AI
-The [GenericSuite AI](https://www.carlosjramirez.com/genericsuite/) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI.
+The [GenericSuite AI](https://genericsuite.carlosjramirez.com/genericsuite-ai) is a frontend and backend set of utilities made with ReactJS and Python to help develop Apps that implements AI.
 
 Features:
 
@@ -75,6 +78,9 @@ Features:
 - Language translation tools.
 - Chats stored in the Database.
 - User Plan, OpenAI API key and model name attributes in the user profile, to allow free plan users to use Models at their own expenses.
+
+Documentation:
+- [https://genericsuite.carlosjramirez.com/genericsuite-ai/](https://genericsuite.carlosjramirez.com/genericsuite-ai)
 
 Repositories:
 
