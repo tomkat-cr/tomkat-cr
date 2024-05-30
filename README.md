@@ -1,10 +1,8 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-Software Engineer with 30+ years of experience. My current stack is ReactJS and JavaScript in the Frontend, Python and PHP in the Backend, Github and Gitlab for version control, Docker, Linux / Bash, AWS EC2, Lambda Functions, ECR, SAM, Cloudformation, EKS (K8) for lower and production environments, GCP for Google Services like Maps Platform and AI Services, OpenAI, HuggingFace and Langchain to implement RAG and LLM applications.
+Software Engineer with 30+ years of experience.
 
-<b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
-
-## ⚒️ &nbsp;Some technologies I work with
+My current stack is ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker, Linux / Bash, AWS (EC2, Lambda Functions, ECR, SAM, Cloudformation), GCP (Google Maps Platform and AI Services), and OpenAI, HuggingFace and Langchain for RAG and LLM applications.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
@@ -19,80 +17,25 @@ Software Engineer with 30+ years of experience. My current stack is ReactJS and 
   <img src="https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
   <!--img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" />&nbsp;&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FFDA33?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />&nbsp;&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />&nbsp;&nbsp;   -->
   <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/ELM-green?style=for-the-badge&logo=elm&logoColor=white" alt="ELM" />&nbsp;&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
 
-## ⏱ &nbsp;Experience
-
-- Software development in general: since 1987, from Cobol to Python 🐍, React & Flutter.
-
-### Programming Languages
-
-- JavaScript: since 2007
-- Python: since 2019
-- React: since 2021
-- PHP: since 2000
-- SQL: since 2000
-- Oracle PL/SQL: 2018
-- Flutter: since 2022
-- Bash: since 2018
-
-### Databases
-
-- MySQL: since 2000
-- DynamoDB: since 2019
-- MongoDB: since 2021
-- Oracle Database: 2018
-
-### Frameworks
-
-- Flask: since 2021
-- Chalice: since 2022
-- FastAPI: since 2022
-
-### AI / LLMs
-
-- OpenAI: since 2022
-- LangChain: since 2023
-- Google Gemini: since 2023
-- Hugging Face: since 2024
-- Clarifai: since 2023
-  
-### Cloud Platforms
-
-- AWS: since 2018
-- GCP: since 2018
-- Oracle Cloud: 2018
-
-## CI/CD
-
-- Github / Gitlab: since 2019
-- Ansible: since 2021
-
-### Other
-
-- Docker: since 2018
-- Linux: since 2017
-- Express: since 2021
-- Gunicorn: since 2021
-- Uvicorn: since 2022
-- WordPress: since 2017 [plugins, themes programming, troubleshooting]
-  
+<b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
 
 ## 🎯 &nbsp;Featuring projects
 
@@ -184,6 +127,62 @@ Repositories:
 - [Backend](https://github.com/tomkat-cr/fynapp_backend)
 - [GitOps](https://github.com/tomkat-cr/fynapp_gitops)
 -->
+
+## ⏱ &nbsp;Background
+
+Software development in general: since 1987, from Cobol to Python 🐍, React & Flutter.
+
+### Programming Languages
+
+- JavaScript: since 2007
+- Python: since 2019
+- React: since 2021
+- PHP: since 2000
+- SQL: since 2000
+- Oracle PL/SQL: 2018
+- Flutter: since 2022
+- Bash: since 2018
+
+### Databases
+
+- MySQL: since 2000
+- DynamoDB: since 2019
+- MongoDB: since 2021
+- Oracle Database: 2018
+
+### Frameworks
+
+- Flask: since 2021
+- Chalice: since 2022
+- FastAPI: since 2022
+
+### AI / LLMs
+
+- OpenAI: since 2022
+- LangChain: since 2023
+- Google Gemini: since 2023
+- Hugging Face: since 2024
+- Clarifai: since 2023
+  
+### Cloud Platforms
+
+- AWS: since 2018
+- GCP: since 2018
+- Oracle Cloud: 2018
+
+## CI/CD
+
+- Github / Gitlab: since 2019
+- Ansible: since 2021
+
+### Other
+
+- Docker: since 2018
+- Linux: since 2017
+- Express: since 2021
+- Gunicorn: since 2021
+- Uvicorn: since 2022
+- WordPress: since 2017 [plugins, themes programming, troubleshooting]
 
 ## 💪🏻 &nbsp;Professional challenges
 
