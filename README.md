@@ -1,6 +1,6 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-Software Engineer with 30+ years of experience.
+<b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
@@ -33,9 +33,7 @@ Software Engineer with 30+ years of experience.
   <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
 </p>
 
-My current stack is ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker, Linux / Bash, AWS (EC2, Lambda Functions, ECR, SAM, Cloudformation), GCP (Google Maps Platform and AI Services), and OpenAI, HuggingFace and Langchain for RAG and LLM applications.
-
-<b>My mission is to turn Latin America into a Technological Powerhouse, through working in teams delivering outsourcing worldwide, contributing to the open-source community<!--, and to the global adoption of blockchain technology --></b>.
+Stack: ReactJS, JavaScript, Python, PHP, Github and Gitlab, Docker, Linux / Bash, AWS (EC2, Lambda Functions, ECR, SAM, Cloudformation), GCP (Google Maps Platform and AI Services), and OpenAI, HuggingFace and Langchain for RAG and LLM applications.
 
 ## 🎯 &nbsp;Featuring projects
 
