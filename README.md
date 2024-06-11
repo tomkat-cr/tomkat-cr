@@ -1,6 +1,6 @@
 ### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
 
-<b>My mission is to contribute to the open-source community, and help turn Latin America into a technological powerhouse by working in teams that deliver outsourcing services worldwide</b>
+I aim to contribute to the open-source community and help turn Latin America into a technological powerhouse by working in teams that deliver outsourcing services worldwide.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
