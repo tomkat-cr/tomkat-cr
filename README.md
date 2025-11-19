@@ -49,6 +49,7 @@ Features:
 
 Documentation:
 - [https://genericsuite.carlosjramirez.com](https://genericsuite.carlosjramirez.com)
+- [https://github.com/tomkat-cr/genericsuite-basecamp](https://github.com/tomkat-cr/genericsuite-basecamp)
 
 Repositories:
 
