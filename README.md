@@ -1,4 +1,4 @@
-### Hello world 👋🏻 I'm <b>Carlos J. Ramirez</b> | a.k.a. @tomkat_cr
+### Hello world 👋🏻 I'm <b>Carlos Ramirez</b> | a.k.a. @tomkat_cr
 
 I aim to contribute to the open-source community and help turn Latin America into a technological powerhouse by working in teams that deliver outsourcing services worldwide.
 
